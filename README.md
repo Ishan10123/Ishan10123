@@ -1,3 +1,4 @@
+![logo](https://github.com/Ishan10123/Ishan10123/blob/main/BANNER.jpg)
 <h1 align="center">Hi 👋, I'm Ishan Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://www.ujudebug.com/wp-content/uploads/2022/07/web-development-content-animated.gif"> 
