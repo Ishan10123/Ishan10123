@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ishan-kaushik-007bb5227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-kaushik-007bb5227" height="30" width="40" /></a>
 <a href="https://fb.com/ishan kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishan kaushik" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameisishan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisishan__" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ishan_2003/" target="blank"><img align="center" src="https://drive.google.com/file/d/1uJs4cZv6n3IgVV_SrKIc1-4la8lsdGSV/view?usp=drive_link" alt="Ishan_2003" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ishan_2003/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png alt="Ishan_2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
