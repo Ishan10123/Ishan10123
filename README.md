@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishan10123/Ishan10123/blob/main/BANNER.jpg)
+![logo](https://drive.google.com/file/d/1O3o2SjRS03f40kEg54nlsgmqat6VDAyg/view?usp=drivesdk)
 <h1 align="center">Hi 👋, I'm Ishan Kaushik</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://www.ujudebug.com/wp-content/uploads/2022/07/web-development-content-animated.gif"> 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishanka92191454" target="blank"><img src="https://img.shields.io/twitter/follow/ishanka92191454?logo=twitter&style=for-the-badge" alt="ishanka92191454" /></a> </p>
 
-- 📫 How to reach me **+91 7413966256**
+- 📫 Reach me at: **+91 7413966256**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/ishanka92191454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishanka92191454" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishan-kaushik-007bb5227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-kaushik-007bb5227" height="30" width="40" /></a>
